@@ -1,0 +1,11 @@
+.main {
+  background: #ccc;
+}
+
+.main section {
+  background: #777;
+}
+
+.main section + section {
+  background: #333;
+}
